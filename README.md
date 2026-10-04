@@ -155,6 +155,10 @@ linux-system-monitor-driver/
 │   ├── VALIDATION_REPORT.md
 │   └── MODULE_FLOW.md
 │
+├── tests/
+│   ├── run_tests.sh
+│   └── README.md
+│
 ├── README.md
 ├── MENTOR_GUIDE.md
 ├── Makefile
