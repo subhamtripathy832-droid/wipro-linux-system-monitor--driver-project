@@ -1,0 +1,15 @@
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.symvers
+modules.order
+Module.symvers
+.DS_Store
+system_monitor
+src/.system_monitor*
+*.cmd
+.tmp_versions/
+.idea/
+.vscode/
