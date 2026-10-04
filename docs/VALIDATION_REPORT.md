@@ -1,6 +1,6 @@
 # Validation Report
 
-This package was checked in a Linux build environment before packaging.
+This project was validated in a Linux build environment before packaging. The C++ application was successfully compiled and tested in demo mode, and the kernel module was successfully compiled against the available Linux kernel headers.
 
 ## Checks performed
 
