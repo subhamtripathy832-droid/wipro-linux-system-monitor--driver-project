@@ -160,7 +160,6 @@ linux-system-monitor-driver/
 │   └── README.md
 │
 ├── README.md
-├── MENTOR_GUIDE.md
 ├── Makefile
 ├── LICENSE
 └── .gitignore
@@ -533,11 +532,12 @@ A typical output may look like:
         LINUX SYSTEM MONITOR
 ========================================
 
-CPU Usage        : 18.42%
-Total Memory     : 7.72 GB
-Used Memory      : 3.61 GB
-Available Memory : 4.11 GB
-Processes        : 184
+CPU Usage       : 12.7%
+Memory Total    : 15884.0 MB
+Memory Used     : 6120.5 MB (38.6%)
+Memory Available : 9763.5 MB
+Processes       : 214
+
 
 ----------------------------------------
        CHARACTER DEVICE INFORMATION
