@@ -151,7 +151,7 @@ linux-system-monitor-driver/
 │   └── check_driver.sh
 │
 ├── docs/
-│   ├── EXPECTED_OUTPUT.md
+│   ├── OUTPUT.md
 │   ├── VALIDATION_REPORT.md
 │   └── MODULE_FLOW.md
 │
@@ -205,7 +205,7 @@ Removes the Linux kernel module.
 
 Checks whether the driver and device are available.
 
-### `docs/EXPECTED_OUTPUT.md`
+### `docs/OUTPUT.md`
 
 Contains sample output for reference.
 
